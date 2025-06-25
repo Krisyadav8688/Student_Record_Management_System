@@ -17,5 +17,5 @@ A command-line based CRUD application in Java for managing student records. This
 
 ## How to Run
 1. Clone the repository.
-2. Compile: javac StudentManagement.java Student.java
+2. Compile: javac StudentManagement.java   Student.java   javac *.java
 3. Run: java StudentManagement
